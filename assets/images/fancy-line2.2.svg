@@ -1,0 +1,16 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2690 87" width="2690" height="87">
+	<title>fancy-line2-svg</title>
+	<style>
+		.s0 { fill: #000000 } 
+		.s1 { fill: none;stroke: #000000;stroke-miterlimit:100;stroke-width: 6 } 
+		.s2 { fill: none;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 6 } 
+	</style>
+	<path id="Shape 2 copy 2" class="s0" d="m-562 30.8h1843v6h-1843z"/>
+	<path id="Shape 2 copy 4" class="s0" d="m-562 48.8h1843v6h-1843z"/>
+	<path id="Shape 2 copy 3" class="s0" d="m1407 30.8h1845v6h-1845z"/>
+	<path id="Shape 2 copy 5" class="s0" d="m1407 48.8h1845v6h-1845z"/>
+	<path id="Shape 4" fill-rule="evenodd" class="s1" d="m1280.7 51.7c30 0 53.8 23 63.4 31.5 8-8.3 29.6-32.3 62.9-31.4"/>
+	<path id="Layer 1" class="s0" d="m1344 61.8c-3.3 0-6-2.7-6-6 0-3.4 2.7-6 6-6 3.3 0 6 2.6 6 6 0 3.3-2.7 6-6 6z"/>
+	<path id="Shape 5" fill-rule="evenodd" class="s2" d="m1398.4 28.7c-5.6 12.3-17.7 18-24.4 18.1-14.7 0-25.8-10.6-26-24-0.2-16.4 11.7-19.9 18.1-19.8 15.2 0.3 15.7 11 15.9 15.8 0.3 7.1-5.1 11.1-11.1 11.2-14.5 0.2-9.9-13.2-9.9-13.2"/>
+	<path id="Shape 5 copy" fill-rule="evenodd" class="s2" d="m1291 28.5c5.7 12.2 17.8 18 24.5 18 14.8 0 25.9-10.5 26.1-24 0.2-16.4-11.8-19.9-18.2-19.7-15.2 0.3-15.7 11-15.9 15.7-0.3 7.1 5.1 11.2 11.1 11.3 14.5 0.1 9.9-13.3 9.9-13.3"/>
+</svg>
